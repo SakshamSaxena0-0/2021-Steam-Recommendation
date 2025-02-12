@@ -15,7 +15,7 @@ Features
 - Includes a Jupyter Notebook for easy experimentation and visualization
 
 ## Usage
-### Train The Model** 
+### Train The Model
 **'training.py'** 
 - This will preprocess the data, train the recommendation model, and save it.
 
