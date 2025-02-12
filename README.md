@@ -16,6 +16,6 @@ Features
 
 ## Usage
 ### Train The Model
-**'training.py'** 
+**`training.py`** 
 - This will preprocess the data, train the recommendation model, and save it.
 
