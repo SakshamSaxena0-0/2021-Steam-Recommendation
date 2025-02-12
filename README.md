@@ -19,3 +19,6 @@ Features
 **`training.py`** 
 - This will preprocess the data, train the recommendation model, and save it.
 
+### Ececute The Model
+**`execution.py`**
+- This will load the trained model and recommend games for a user.
