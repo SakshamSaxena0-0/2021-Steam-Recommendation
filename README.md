@@ -22,3 +22,6 @@ Features
 ### Ececute The Model
 **`execution.py`**
 - This will load the trained model and recommend games for a user.
+
+# License
+This project is licensed under the MIT License.
